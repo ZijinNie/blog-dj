@@ -1,1 +1,4 @@
 bin/
+src/django_project/blog/__pycache__/
+src/django_project/db.sqlite3
+lib/python3.8/
